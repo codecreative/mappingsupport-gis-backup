@@ -1,62 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>MappingSupport | File Not Found</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="Author" content="Joseph Elfelt">
-  <meta name="Description"
-    content="This page displays when a file cannot be found on the mappingsupport.com domain.">
-
-  <link rel=StyleSheet  href="https://mappingsupport.com/ms_style.css" type="text/css">
-
-  <style type="text/css">
-		#text_padding {
-			padding-left: 20px;
-			padding-right: 20px;
-		}    
-  </style>  
-    
-    
-  
-</head>
-<body>
-  <div id="container">
-  
-    <div id="header">
-      MappingSupport.com<br />
-      <a href="https://twitter.com/MappingSupport"><em>Twitter @mappingsupport</em></a>
-    </div>
- 			
-		<br />      
-		<br />
-		<h1>Sorry about this</h1>
-		<br />
-		<div id="text_padding"">
-			The web page or other resource you are looking for has <em>disappeared into the bit bucket</em> and cannot be found.<br />
-			<br />
-			To report this, please visit <a href='https://mappingsupport.com/'><em>https://mappingsupport.com/</em></a> where you will find a 'contact' link.<br />	
-			<br />
-			This wreck happened when you were looking at<br />
-			<em>(none)</em><br />
-			<br />
-			and tried to access<br />
-			<em>https://mappingsupport.com/p/surf_gis/list-federal-state-county-city-GIS-servers.csv</em><br />
-			<br />
-			
-		</div>	
-		<br />
-		<div id="footer">
-			&copy; Copyright 
-				<script type="text/javascript">
-				var d = new Date()
-				document.write("2016-" + d.getFullYear())
-				</script>
-			by Joseph Elfelt.&nbsp;&nbsp;All Rights Reserved. 
-		</div> 
-		<br />
-	</div>
-
-</body>
-</html>
- 
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access this resource.Server unable to read htaccess file, denying access to be safe</p>
+<p>Additionally, a 403 Forbidden
+error was encountered while trying to use an ErrorDocument to handle the request.</p>
+</body></html>
